@@ -9,5 +9,6 @@ Currently working on updating my projects - watch this space...
 
 ![MoniqueOberholzer's Stats](https://github-readme-stats.vercel.app/api?username=MoniqueOberholzer&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MoniqueOberholzer&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![MoniqueOberholzer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniqueOberholzer&theme=radical&show_icons=true&hide_border=false&layout=compact)
